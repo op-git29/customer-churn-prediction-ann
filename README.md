@@ -92,7 +92,3 @@ jupyter notebook notebooks/churn_project.ipynb
 - Hyperparameter tuning (layers, neurons, learning rate) via GridSearchCV/KerasTuner
 - Add SHAP/feature importance analysis for model interpretability
 - Deploy to cloud (Streamlit Community Cloud / Render / HuggingFace Spaces)
-
-## Author
-
-Built as a hands-on learning project to understand the complete ML pipeline — from raw data to deployed model.
